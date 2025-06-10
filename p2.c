@@ -20,4 +20,5 @@ void main()
 
     printf("My age is %d\n",x);
     printf("My gen is %c\n",gen);
+    printf("My 12 per is %g\n",per);
 }
