@@ -13,12 +13,12 @@ void main()
     */
 
     int x;
-    x = 25;
+    x = 25; //compile time input
 
     char gen = 'M';
     float per = 78.4;
 
     printf("My age is %d\n",x);
     printf("My gen is %c\n",gen);
-    printf("My 12 per is %g\n",per);
+    printf("My 12 per is %g %%\n",per);
 }
