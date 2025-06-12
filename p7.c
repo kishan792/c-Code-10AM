@@ -26,6 +26,6 @@ void main()
 
     ans = a%b;
 
-    printf("%d %%  %d = %d\n",a,b,ans);
+    printf("%d %% %d = %d\n",a,b,ans);
 
 }
