@@ -11,5 +11,5 @@ void main()
     printf("Enter the age of person2\n");
     scanf("%d",&person2);
 
-    person1>person2 ? printf("person1 is older\n") : printf("person 2 is older\n") ;
+    person1>person2 ? printf("person 1 is older\n") : printf("person 2 is older\n") ;
 }
