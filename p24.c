@@ -23,8 +23,12 @@ void main()
     {
         printf("Given num is a even number\n");
     }
+    else
+    {
+        printf("Given num is a odd number\n");
+    }
 
-    printf("Given num is a odd number\n");
+    
 
     printf("after if block\n");
     

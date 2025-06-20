@@ -6,7 +6,7 @@ void main()
     printf("Enter the char\n");
     scanf(" %c",&ch);
 
-    if(ch=='a'|| 'e')
+    if(ch=='a'||  ch=='e')
     {
         printf("Vowel\n");
     }
